@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72cc8a32.chunk.css",
+    "main.js": "/static/js/main.e55ca037.chunk.js",
+    "main.js.map": "/static/js/main.e55ca037.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.00060668.js",
+    "runtime-main.js.map": "/static/js/runtime-main.00060668.js.map",
+    "static/js/2.b10fde09.chunk.js": "/static/js/2.b10fde09.chunk.js",
+    "static/js/2.b10fde09.chunk.js.map": "/static/js/2.b10fde09.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bfa12ec6f52367f3827872d9e7f74f13.js": "/precache-manifest.bfa12ec6f52367f3827872d9e7f74f13.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.72cc8a32.chunk.css.map": "/static/css/main.72cc8a32.chunk.css.map",
+    "static/js/2.b10fde09.chunk.js.LICENSE.txt": "/static/js/2.b10fde09.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/alvi.png": "/static/media/alvi.79a03c08.png",
+    "static/media/buld.jpg": "/static/media/buld.a1051a22.jpg",
+    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/github.png": "/static/media/github.0ba2aa20.png",
+    "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/gtu.png": "/static/media/gtu.3d9465c3.png",
+    "static/media/hunter.png": "/static/media/hunter.94043171.png",
+    "static/media/postman.jpg": "/static/media/postman.22f11067.jpg",
+    "static/media/postman.png": "/static/media/postman.c108f557.png",
+    "static/media/pursuit-monogram.png": "/static/media/pursuit-monogram.163fa155.png",
+    "static/media/pursuit.jpg": "/static/media/pursuit.10cf813b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00060668.js",
+    "static/js/2.b10fde09.chunk.js",
+    "static/css/main.72cc8a32.chunk.css",
+    "static/js/main.e55ca037.chunk.js"
+  ]
+}
